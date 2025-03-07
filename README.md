@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Created by Jordan Davis.
 
 I like tacos.
+
+I also like teal.
